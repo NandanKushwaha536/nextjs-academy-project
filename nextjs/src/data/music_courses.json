@@ -1,0 +1,93 @@
+{
+    "courses":[
+        {
+            "id": 1,
+            "title":"Guitar Fundamentals",
+            "slug":"guitar-Fundamentals",
+            "description": "Learn the basics of playing guitar with our comprehensive beginner's course",
+            "price": 99.99,
+            "instructor": "jone Doe",
+            "isFeatured": true ,
+            "image":"https://images.pexels.com/photos/8043940/pexels-photo-8043940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+
+        },
+        {
+            
+            "id": 2,
+            "title":"Piano for Beginner",
+            "slug":"Piano-for-beginners",
+            "description": "Start your musical Journey with foundational piano skills taught by export instructors",
+            "price": 109.99,
+            "instructor": "Jane Smith",
+            "isFeatured": true,
+            "image":"https://images.pexels.com/photos/1885213/pexels-photo-1885213.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 3,
+            "title":"Advanced Vocal Techniques",
+            "slug":"guitar-Fundamentals",
+            "description": "Enhnance your singing with advanced vocal techniques for itermediates to advanceed learners.",
+            "price": 99.99,
+            "instructor": "jone Doe",
+            "isFeatured": true ,
+            "image":"https://images.pexels.com/photos/4988143/pexels-photo-4988143.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+
+        },
+        {
+            
+            "id": 4,
+            "title":"Drumming Mastery",
+            "slug":"Piano-for-beginners",
+            "description": "Master the drums with our comprehensive course covering all skills levels",
+            "price": 109.99,
+            "instructor": "Jane Smith",
+            "isFeatured": true,
+            "image":"https://images.pexels.com/photos/8041224/pexels-photo-8041224.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 5,
+            "title":"Jazz Improvisation",
+            "slug":"guitar-Fundamentals",
+            "description": "learn the art of jazz improvisation with this course designed for all levels",
+            "price": 99.99,
+            "instructor": "jone Doe",
+            "isFeatured": true,
+            "image":"https://images.pexels.com/photos/4709824/pexels-photo-4709824.jpeg" 
+
+        },
+        {
+            
+            "id": 6,
+            "title":"Music Production Fundamentals",
+            "slug":"Piano-for-beginners",
+            "description": "Dive into music production with this introductory course on the basics of sound engineering and mixing",
+            "price": 109.99,
+            "instructor": "Jane Smith",
+            "isFeatured": true,
+            "image":"https://images.pexels.com/photos/690779/pexels-photo-690779.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 7,
+            "title":"Guitar Fundamentals",
+            "slug":"guitar-Fundamentals",
+            "description": "Learn the basics of playing guitar with our comprehensive beginner's course",
+            "price": 99.99,
+            "instructor": "jone Doe",
+            "isFeatured": false,
+            "image":"https://images.pexels.com/photos/8043940/pexels-photo-8043940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+        },
+        {
+            
+            "id": 8,
+            "title":"Piano for Beginner",
+            "slug":"Piano-for-beginners",
+            "description": "Start your musical Journey with foundational piano skills taught by export instructors",
+            "price": 109.99,
+            "instructor": "Jane Smith",
+            "isFeatured": false,
+            "image":"https://images.pexels.com/photos/7086738/pexels-photo-7086738.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        }
+ 
+    ]
+}
